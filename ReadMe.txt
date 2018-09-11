@@ -1,0 +1,1 @@
+The game "Archers". It is based on the writing of the algorithm for calculating computer moves "Min-Max algorithm".

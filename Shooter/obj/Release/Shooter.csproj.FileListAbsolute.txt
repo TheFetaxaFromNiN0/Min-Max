@@ -1,0 +1,9 @@
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\Shooter\Shooter\bin\Release\Shooter.exe.config
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\Shooter\Shooter\bin\Release\Shooter.exe
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\Shooter\Shooter\bin\Release\Shooter.pdb
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\Shooter\Shooter\obj\Release\Shooter.Form1.resources
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\Shooter\Shooter\obj\Release\Shooter.Form2.resources
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\Shooter\Shooter\obj\Release\Shooter.Properties.Resources.resources
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\Shooter\Shooter\obj\Release\Shooter.csproj.GenerateResource.Cache
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\Shooter\Shooter\obj\Release\Shooter.exe
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\Shooter\Shooter\obj\Release\Shooter.pdb

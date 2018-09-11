@@ -1,0 +1,9 @@
+c:\users\михаил\documents\visual studio 2017\Projects\Shooter\Shooter\bin\Debug\Shooter.exe.config
+c:\users\михаил\documents\visual studio 2017\Projects\Shooter\Shooter\bin\Debug\Shooter.exe
+c:\users\михаил\documents\visual studio 2017\Projects\Shooter\Shooter\bin\Debug\Shooter.pdb
+c:\users\михаил\documents\visual studio 2017\Projects\Shooter\Shooter\obj\Debug\Shooter.Form1.resources
+c:\users\михаил\documents\visual studio 2017\Projects\Shooter\Shooter\obj\Debug\Shooter.Properties.Resources.resources
+c:\users\михаил\documents\visual studio 2017\Projects\Shooter\Shooter\obj\Debug\Shooter.csproj.GenerateResource.Cache
+c:\users\михаил\documents\visual studio 2017\Projects\Shooter\Shooter\obj\Debug\Shooter.exe
+c:\users\михаил\documents\visual studio 2017\Projects\Shooter\Shooter\obj\Debug\Shooter.pdb
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\Shooter\Shooter\obj\Debug\Shooter.csprojResolveAssemblyReference.cache
